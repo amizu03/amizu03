@@ -34,8 +34,8 @@ I am always willing to learn new things!<br>
 🌱 I’m currently learning Mandarin Chinese.<br>
 💬 Ask me about anything!<br>
 📫 How to reach me:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Email: sesame03@protonmail.com<br>
-&nbsp;&nbsp;&nbsp;&nbsp;微信ID：amizu03<br>
+Email: sesame03@protonmail.com<br>
+微信ID：amizu03<br>
 
 <hr>
  
