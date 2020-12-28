@@ -1,12 +1,18 @@
+<style>
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+</style>
+
 <div align="center">
 ### About Me
-
-<p>
-- I am 17 years old, and am currently living in the United States.<br>
-- I am from a Japanese family background.<br>
-- I am a passionate programmer and language lover.<br>
-- I am always willing to learn new things!<br>
-</p>
+<ul>
+<li>I am 17 years old, and am currently living in the United States.</li>
+<li>I am from a Japanese family background.</li>
+<li>I am a passionate programmer and language lover.</li>
+<li>I am always willing to learn new things!</li>
+</ul>
 
 <p align="left">
 </p>
@@ -17,8 +23,7 @@
 <img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/br.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Portuguese (BR)&nbsp;
 <img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/cn.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Mandarin Chinese (CN)&nbsp;
  
-### Programming Languages
- 
+### Programming Languages 
 <img height="32" width="32" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
@@ -27,25 +32,23 @@
 <img height="32" width="32" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />&nbsp;
  
 ### Database Systems
- 
 <img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
  
 ### Tools and Frameworks
 <img height="32" width="32" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor" />&nbsp;
  
 ### Operating Systems
- 
 <img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
 
-<p>
-- 🔭 I’m currently working on driver development.<br>
-- 🌱 I’m currently learning Mandarin Chinese.<br>
-- 💬 Ask me about anything!<br>
-- 📫 How to reach me:<br>
+<ul>
+<li>🔭 I’m currently working on driver development.</li>
+<li>🌱 I’m currently learning Mandarin Chinese.</li>
+<li>💬 Ask me about anything!</li>
+<li>📫 How to reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Email: sesame03@protonmail.com<br>
-&nbsp;&nbsp;&nbsp;&nbsp;微信ID：amizu03<br>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;微信ID：amizu03<br></li>
+</ul>
 
 <hr>
  
