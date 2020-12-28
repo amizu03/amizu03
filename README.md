@@ -1,12 +1,10 @@
 <div align="center">
   
 ### About Me
-<ul>
-<li>I am 17 years old, and am currently living in the United States.</li>
-<li>I am from a Japanese family background.</li>
-<li>I am a passionate programmer and language lover.</li>
-<li>I am always willing to learn new things!</li>
-</ul>
+I am 17 years old, and am currently living in the United States.<br>
+I am from a Japanese family background.<br>
+I am a passionate programmer and language lover.<br>
+I am always willing to learn new things!<br>
 
 ### Human Languages
 <img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/us.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;English (US)&nbsp;
@@ -32,14 +30,12 @@
 <img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
 
-<ul>
-<li>🔭 I’m currently working on driver development.</li>
-<li>🌱 I’m currently learning Mandarin Chinese.</li>
-<li>💬 Ask me about anything!</li>
-<li>📫 How to reach me:<br>
+🔭 I’m currently working on driver development.<br>
+🌱 I’m currently learning Mandarin Chinese.<br>
+💬 Ask me about anything!<br>
+📫 How to reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Email: sesame03@protonmail.com<br>
-&nbsp;&nbsp;&nbsp;&nbsp;微信ID：amizu03<br></li>
-</ul>
+&nbsp;&nbsp;&nbsp;&nbsp;微信ID：amizu03<br>
 
 <hr>
  
