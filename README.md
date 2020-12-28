@@ -1,3 +1,4 @@
+<div align="center">
 ### About Me
 
 <p>
@@ -9,7 +10,6 @@
 
 <p align="left">
 </p>
-<div align="center">
   
 ### Languages
 <img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/us.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;English (US)&nbsp;
@@ -37,8 +37,6 @@
  
 <img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
- 
-</div>
 
 <p>
 - 🔭 I’m currently working on driver development.<br>
@@ -56,3 +54,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=amizu03&hide_border=true&show_icons=true" alt="amizu03's stats">
   </a>
 </p>
+
+</div>
