@@ -1,11 +1,17 @@
 <style>
 ul {
-  text-align: center;
+  text-align: left;
   list-style-position: inside;
+  display: inline-block;
+}
+  
+div {
+  text-align: center;
+  align: center;
 }
 </style>
 
-<div align="center">
+<div>
 ### About Me
 <ul>
 <li>I am 17 years old, and am currently living in the United States.</li>
@@ -14,7 +20,7 @@ ul {
 <li>I am always willing to learn new things!</li>
 </ul>
 
-<p align="left">
+<p>
 </p>
   
 ### Languages
@@ -52,7 +58,7 @@ ul {
 
 <hr>
  
-<p align="center">
+<p>
   <a href="https://github.com/amizu03">
     <img src="https://github-readme-stats.vercel.app/api?username=amizu03&hide_border=true&show_icons=true" alt="amizu03's stats">
   </a>
