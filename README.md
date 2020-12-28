@@ -1,35 +1,20 @@
-<style>
-ul {
-  text-align: left;
-  list-style-position: inside;
-  display: inline-block;
-}
+<div style="center">
   
-div {
-  text-align: center;
-  align: center;
-}
-</style>
-
-<div>
 ### About Me
-<ul>
+<ul style="list-style-position: inside; text-align: left; display: inline-block">
 <li>I am 17 years old, and am currently living in the United States.</li>
 <li>I am from a Japanese family background.</li>
 <li>I am a passionate programmer and language lover.</li>
 <li>I am always willing to learn new things!</li>
 </ul>
 
-<p>
-</p>
-  
-### Languages
+### Human Languages
 <img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/us.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;English (US)&nbsp;
 <img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/es.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Spanish (ES)&nbsp;
 <img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/br.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Portuguese (BR)&nbsp;
 <img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/cn.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Mandarin Chinese (CN)&nbsp;
  
-### Programming Languages 
+### Programming/Coding/Markup Languages 
 <img height="32" width="32" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
@@ -47,7 +32,7 @@ div {
 <img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
 
-<ul>
+<ul style="list-style-position: inside; text-align: left; display: inline-block">
 <li>🔭 I’m currently working on driver development.</li>
 <li>🌱 I’m currently learning Mandarin Chinese.</li>
 <li>💬 Ask me about anything!</li>
