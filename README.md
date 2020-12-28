@@ -13,8 +13,9 @@ I am always willing to learn new things!<br>
 <img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/cn.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Mandarin Chinese (CN)&nbsp;
  
 ### Programming/Coding/Markup Languages 
-<img height="32" width="32" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="http://rust-lang.org/logos/rust-logo-blk.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />&nbsp;
