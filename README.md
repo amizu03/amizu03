@@ -1,7 +1,7 @@
-<div style="center">
+<div align="center">
   
 ### About Me
-<ul style="list-style-position: inside; text-align: left; display: inline-block">
+<ul>
 <li>I am 17 years old, and am currently living in the United States.</li>
 <li>I am from a Japanese family background.</li>
 <li>I am a passionate programmer and language lover.</li>
@@ -32,7 +32,7 @@
 <img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
 
-<ul style="list-style-position: inside; text-align: left; display: inline-block">
+<ul>
 <li>🔭 I’m currently working on driver development.</li>
 <li>🌱 I’m currently learning Mandarin Chinese.</li>
 <li>💬 Ask me about anything!</li>
@@ -48,5 +48,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=amizu03&hide_border=true&show_icons=true" alt="amizu03's stats">
   </a>
 </p>
-
 </div>
