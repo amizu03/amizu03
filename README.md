@@ -38,6 +38,7 @@ I am always willing to learn new things!<br>
 📫 How to reach me:<br>
 Email: sesame03@protonmail.com<br>
 微信ID：amizu03<br>
+Discord ID：ses#1997<br>
 
 <hr>
  
