@@ -20,7 +20,7 @@ I am always willing to learn new things!<br>
 <img height="32" width="32" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://github.com/amizu03/amizu03/blob/main/x86asm.svgsize=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/amizu03/amizu03/main/x86asm.svg&size=128&color=currentColor" />&nbsp;
  
 ### Database Systems
 <img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
