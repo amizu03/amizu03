@@ -7,10 +7,10 @@ I am a passionate programmer and language lover.<br>
 I am always willing to learn new things!<br>
 
 ### Human Languages
-<img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/us.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;English (US)&nbsp;
-<img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/es.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Spanish (ES)&nbsp;
-<img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/br.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Portuguese (BR)&nbsp;
-<img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/master/svg/cn.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Mandarin Chinese (CN)&nbsp;
+<img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/main/svg/us.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;English (US)&nbsp;
+<img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/main/svg/es.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Spanish (ES)&nbsp;
+<img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/main/svg/br.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Portuguese (BR)&nbsp;
+<img height="32" width="32" src="https://github.com/hjnilsson/country-flags/blob/main/svg/cn.svg?size=128&color=currentColor" />&nbsp;&nbsp;&nbsp;&nbsp;Mandarin Chinese (CN)&nbsp;
  
 ### Programming/Coding/Markup Languages 
 <img height="32" width="32" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />&nbsp;
