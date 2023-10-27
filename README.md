@@ -1,7 +1,7 @@
 <div align="center">
   
 ### About Me
-I am 17 years old, and am currently living in the United States.<br>
+I am 20 years old, and am currently living in the United States.<br>
 I am from a Japanese family background.<br>
 I am a passionate programmer and language lover.<br>
 I am always willing to learn new things!<br>
@@ -33,14 +33,14 @@ I am always willing to learn new things!<br>
 <img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
 
-🔭 I’m currently working on driver development.<br>
-🌱 I’m currently learning Mandarin Chinese.<br>
+🔭 I’m currently working on https://ses.pink.<br>
+🌱 I’m currently learning Mandarin Chinese and Japanese.<br>
 💬 Ask me about anything!<br>
 📫 How to reach me:<br>
 Email: sesame03@protonmail.com<br>
 微信ID：amizu03<br>
-Discord ID：ses#1997<br>
-
+Discord ID：@amizu03<br>
+QQ：<br>
 <hr>
  
 <p>
