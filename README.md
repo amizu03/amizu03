@@ -1,7 +1,7 @@
 <div align="center">
   
 ### About Me
-I am 20 years old, and am currently living in the United States.<br>
+I am 21 years old, and am currently living in the United States.<br>
 I am from a Japanese family background.<br>
 I am a passionate programmer and language lover.<br>
 I am always willing to learn new things!<br>
