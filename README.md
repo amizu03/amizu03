@@ -1,7 +1,7 @@
 <div align="center">
   
 ### About Me
-I am 20 years old, and am currently living in the United States.<br>
+I am 22 years old, and am currently living in the United States.<br>
 I am from a Japanese family background.<br>
 I am a passionate programmer and language lover.<br>
 I am always willing to learn new things!<br>
@@ -39,7 +39,7 @@ I am always willing to learn new things!<br>
 📫 How to reach me:<br>
 Email: sesame03@protonmail.com<br>
 微信ID：amizu03<br>
-Discord ID：@amizu03<br>
+Discord ID：@haruki6748<br>
 QQ：<br>
 <hr>
  
