@@ -37,10 +37,8 @@ I am always willing to learn new things!<br>
 🌱 I’m currently learning Mandarin Chinese and Japanese.<br>
 💬 Ask me about anything!<br>
 📫 How to reach me:<br>
-Email: sesame03@protonmail.com<br>
-微信ID：amizu03<br>
-Discord ID：@haruki6748<br>
-QQ：<br>
+Email: github.slimy531@passinbox.com<br>
+Discord ID：@amizu03<br>
 <hr>
  
 <p>
